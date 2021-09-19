@@ -1,0 +1,358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gridro",
+				"grid-row-end\tproperty"
+			],
+			[
+				"grid-row",
+				"grid-row-end\tproperty"
+			],
+			[
+				"gridRow",
+				"grid-row-start\tproperty"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "game.py",
+			"settings":
+			{
+				"buffer_size": 2027,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/leejo/OneDrive/Desktop/Python/hangman"
+	],
+	"file_history":
+	[
+		"/C/Users/leejo/OneDrive/Desktop/Python/hangman/game.sublime-project",
+		"/C/Users/leejo/website/styles.css",
+		"/C/Users/leejo/website/index.html",
+		"/C/Users/leejo/OneDrive/Desktop/Homework/EECS_169/Lee-3039410-Lab-04/lab-04/exercise2/Makefile",
+		"/C/Users/leejo/OneDrive/Desktop/Homework/EECS_169/Lee-3039410-Lab-04/lab-04/exercise2/main.cpp",
+		"/C/Users/leejo/OneDrive/Desktop/C++/exercises/patterns.cpp",
+		"/C/Users/leejo/OneDrive/Desktop/C++/exercises/primes.cpp",
+		"/C/Users/leejo/OneDrive/Desktop/Python/space_invaders/game.py",
+		"/C/Users/leejo/OneDrive/Desktop/Python/hangman/game.py",
+		"/C/Users/leejo/OneDrive/Desktop/Python/AI/src_0/maze.py",
+		"/C/Users/leejo/OneDrive/Desktop/Python/random_stuff/inherit_from_list.py",
+		"/C/Users/leejo/OneDrive/Desktop/Python/random_stuff/classmethod.py",
+		"/C/Users/leejo/OneDrive/Desktop/Python/auto_grading/grading.py",
+		"/C/Users/leejo/OneDrive/Desktop/C++/exercises/Outbreak/outbreak.cpp",
+		"/C/Users/leejo/OneDrive/Desktop/C++/exercises/ASCII/main.cpp",
+		"/C/Users/leejo/OneDrive/Desktop/C++/exercises/Gibbonacci/gibbonacci.cpp",
+		"/C/Users/leejo/OneDrive/Desktop/Homework/EECS_169/Lee-3039410-Lab-04/lab-04/exercise4/main.cpp",
+		"/C/Users/leejo/OneDrive/Desktop/C++/exercises/prime_detector.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp13322/home/m791l749/EECS_169/EECS169-lab04/Lee-3039410-Lab-04/lab-04/exercise2/Makefile",
+		"/C/Users/leejo/OneDrive/Desktop/Python/tic_tac_toe/tic_tac_toe.py",
+		"/C/Users/leejo/OneDrive/Desktop/Homework/EECS_169/Lee-3039410-Lab-02/lab-02/exercise1/Makefile",
+		"/C/Users/leejo/OneDrive/Desktop/Homework/EECS_169/Lee-3039410-Lab-03/lab-03/exercise1/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp13188/home/m791l749/EECS_169/EECS169-lab04/Lee-3039410-Lab-04/lab-04/exercise1/main.cpp",
+		"/C/Users/leejo/OneDrive/Desktop/Homework/EECS_169/Lee-3039410-Lab-03/lab-03/exercise2/main.cpp",
+		"/C/Users/leejo/OneDrive/Desktop/Homework/EECS_169/Lee-3039410-Lab-03/lab-03/exercise4/main.cpp",
+		"/C/Users/leejo/OneDrive/Desktop/Homework/EECS_169/Lee-3039410-Lab-03/lab-03/exercise3/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp28799/home/m791l749/EECS_169/EECS169-lab03/Lee-3039410-Lab-03/lab-03/exercise1/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp28460/home/m791l749/EECS_169/EECS169-lab03/Lee-3039410-Lab-03/lab-03/exercise3/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp45758/home/m791l749/EECS_169/EECS169-lab03/Lee-3039410-Lab-03/lab-03/exercise3/Makefile",
+		"/C/Users/leejo/AppData/Local/Temp/scp58770/home/m791l749/EECS_169/EECS169-lab03/Lee-3039410-Lab-03/lab-03/exercise4/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp45014/home/m791l749/EECS_169/EECS169-lab03/Lee-3039410-Lab-03/lab-03/exercise3/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp22895/home/m791l749/EECS_169/EECS169-lab03/Lee-3039410-Lab-03/lab-03/exercise3/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp34871/home/m791l749/EECS_169/EECS169-lab03/Lee-3039410-Lab-03/lab-03/exercise2/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp34751/home/m791l749/EECS_169/EECS169-lab03/Lee-3039410-Lab-03/lab-03/exercise2/Makefile",
+		"/C/Users/leejo/AppData/Local/Temp/scp23288/home/m791l749/EECS_169/EECS169-lab03/Lee-3039410-Lab-03/lab-03/exercise1/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp24464/home/m791l749/EECS_169/EECS169-lab03/Lee-3039410-Lab-03/lab-03/exercise1/main.cpp",
+		"/C/Users/leejo/OneDrive/Desktop/Homework/EECS_169/Lee-3039410-Lab-02/lab-02/exercise6/main.cpp",
+		"/C/Users/leejo/OneDrive/Desktop/C++/test.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp42289/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise6/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp26314/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise6/main.cpp",
+		"/C/Users/leejo/OneDrive/Desktop/Homework/EECS_169/Lee-3039410-Lab-02/lab-02/exercise1/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp47158/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise6/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp00110/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise3/Makefile",
+		"/C/Users/leejo/AppData/Local/Temp/scp28458/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise5/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp43720/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise6/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp01162/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise3/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp19251/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise4/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp12131/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise2/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp15062/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise3/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp50284/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise2/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp59405/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise3/Makefile",
+		"/C/Users/leejo/AppData/Local/Temp/scp47325/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise2/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp36205/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise2/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp46174/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise2/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp36716/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise1/main.cpp",
+		"/C/Users/leejo/AppData/Local/Temp/scp24866/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise1/Makefile",
+		"/C/Users/leejo/AppData/Local/Temp/scp13482/home/m791l749/EECS_169/EECS169-lab02/Lee-3039410-Lab-02/lab-02/exercise1/main.cpp",
+		"/C/Users/leejo/OneDrive/Desktop/Python/snake_game/snake.py",
+		"/C/Users/leejo/OneDrive/Desktop/Python/snake_game/test.py",
+		"/C/Users/leejo/OneDrive/Desktop/Python/random_stuff/mixin_classes.py",
+		"/C/Users/leejo/OneDrive/Desktop/Python/random_stuff/function_decorator.py",
+		"/C/Users/leejo/OneDrive/Desktop/Python/random_stuff/integers.py",
+		"/C/Users/leejo/OneDrive/Desktop/Python/random_stuff/random.py",
+		"/C/Users/leejo/OneDrive/Desktop/Python/random_stuff/workspace.py",
+		"/C/Users/leejo/OneDrive/Desktop/Homework/EECS_169/Lee-3039410-Lab-01/lab-01/Exercise2/main.cpp",
+		"/C/Users/leejo/OneDrive/Desktop/Homework/EECS_169/Lee-3039410-Lab-01/lab-01/Exercise1/Makefile",
+		"/C/Users/leejo/OneDrive/Desktop/Homework/EECS_169/Lee-3039410-Lab-01/lab-01/Exercise1/main.cpp",
+		"/C/Users/leejo/Downloads/src0.zip",
+		"/C/Users/leejo/OneDrive/Desktop/Python/random_stuff/addTwoNumbers.py",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/twoSum/twoSum.py",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/tetris2/index.html",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/tetris2/styles.css",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/tetris2/game.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/twoSum/index.html",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/twoSum/twoSum.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/tetris/index.html",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/tetris/styles.css",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/tetris/game.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/snake game 3/game.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/snake game 3/index.html",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/snake game 3/styles.css",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/frogger2/index.html",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/frogger2/styles.css",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/frogger2/game.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/frogger/game.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/rock paper scissors/script.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/itemTracker/.env",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/itemTracker/parser.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/snakeGame/index.html",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/snakeGame/script.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/snakeGame/food.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/snakeGame/grid.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/snakeGame/input.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/snakeGame/snake.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/frogger/styles.css",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/frogger/index.html",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/space invaders/index.html",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/space invaders/styles.css",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/space invaders/game.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/snake game 2/index.html",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/snake game 2/styles.css",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/snake game 2/game.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/connect four/index.html",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/connect four/styles.css",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/connect four/game.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/whack a mole/index.html",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/whack a mole/styles.css",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/whack a mole/game.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/memory game/index.html",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/memory game/styles.css",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/memory game/game.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/discord bot/.gitignore",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/discord bot/.env",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/discord bot/bot.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/speaking computer/index.html",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/speaking computer/script.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/clock/index.html",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/clock/styles.css",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/clock/script.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/pop up/index.html",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/pop up/styles.css",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/pop up/script.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/To do 2/todo.html",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/To do 2/todo.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/Text Adventure/game.js",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/rock paper scissors/styles.css",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/rock paper scissors/index.html",
+		"/C/Users/leejo/OneDrive/Desktop/JavaScript/rock paper scissors/script2.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "game.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "game.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\leejo\\OneDrive\\Desktop\\Python\\tic_tac_toe\\tic_tac_toe.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
